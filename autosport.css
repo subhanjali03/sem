@@ -1,0 +1,171 @@
+#go {
+color: black;
+border:none;
+padding: 10px;
+
+}
+#go:hover {
+color: red;
+
+}
+#togo {
+background-color:#a10808;
+color: white;
+border:none;
+border-radius: 10px;
+padding: 5px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+
+font-size: 70px;
+font-weight: bold;
+
+
+}
+#togo:hover {
+background-color:#807a7a;
+color: red;
+}
+.bgimg {
+background-image: url('https://res.cloudinary.com/dxujeg5en/image/upload/v1669302394/modified-mazda-4k-4t_rfmpjx.jpg');
+height: 80vh;
+background-size: cover;
+}
+.car1 {
+color: white;
+
+}
+.lay {
+margin-top: 290px;
+padding:20px;
+}
+#togo1 {
+background-color: maroon;
+color: white;
+border-radius:7px;
+border:none;
+padding: 10px;
+justify-content: center;
+}
+#car2 {
+font-size: 20px;
+}
+.bgimg2 {
+background-color: #ebe9e6;
+background-size: cover;
+width: 1550px;
+padding-top: 100px;
+height: 100vh;
+}
+.layout {
+background-color: white;
+width: 150px;
+height: 150px;
+padding: 5px;
+margin: 10px;
+border-radius: 15px;
+text-align: center;
+}
+.carding {
+text-align: center;
+background-color: white;
+border-style:solid;
+border-width: 1px;
+border-color: #e5eaf4;
+border-radius: 16px;
+}
+.head{
+color: #323f4b;
+font-family: Arial,Helvetica,sans-serif;
+font-size: 16px;
+font-weight: bold;
+}
+.para {
+color: #7b8794;
+font-family: Arial,Helvetica,sans-serif;
+font-size: 16px;
+font-weight: bold;
+}
+.offers {
+color: #323f4b;
+font-style: italic;
+font-weight: 600;
+}
+.bgimg3 {
+background-color: white;
+background-size: cover;
+height: 120vh;
+width: 1550px;
+}
+.head2 {
+padding-top:60px;
+padding-bottom: 40px;
+}
+.anchoring {
+color: #5c0303;
+}
+.card2 {
+text-align: start;
+background-color: white;
+border-style:solid;
+border-width: 1px;
+border-color: #e5eaf4;
+border-radius: 16px;
+width: 200px;
+height: 250px;
+padding-top: 80px;
+padding-bottom: 20px;
+}
+.paybgimg{
+background-color: white;
+
+}
+.head1{
+color-profile: #183b56;
+font-family: Arial,Helvetica,sans-serif;
+font-size:28px;
+font-weight: 700;
+}
+.cstbutton{
+color: white;
+background-color:#c90202;
+width: 130px;
+height: 45px;
+border-width: 0;
+border-radius: 8px;
+margin-right: 10px;
+}
+.paycarding{
+width: 50px;
+height: 50px;
+margin-right: 28px;
+}
+.bgimg4{
+background-color:grey;
+
+width: 3000px;
+height: 100vh;
+padding-top: 90px;
+padding-bottom: 40px;
+}
+.contact {
+background-color: green;
+color: white;
+border-radius: 5px;
+border:none;
+height:50px;
+width: 100px;
+}
+.images {
+background-color: grey;
+height: 120px;
+width: 306px;
+}
+.bgimg6 {
+background-color: grey;
+}
+.fwl {
+height: 500px;
+padding: 100px;
+
+}
